@@ -10,6 +10,5 @@
         <property name="hibernate.current_session_context_class">thread</property>
         <property name="hibernate.hbm2ddl.auto">update</property>
         <mapping class="org.example.KhachHang"/>
-        <mapping class="org.example.Sach2"/>
     </session-factory>
 </hibernate-configuration>
